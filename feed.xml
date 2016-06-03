@@ -6,15 +6,41 @@
 </description>
     <link>http://www.vchool.com/</link>
     <atom:link href="http://www.vchool.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Jun 2016 15:03:15 +0800</pubDate>
-    <lastBuildDate>Fri, 03 Jun 2016 15:03:15 +0800</lastBuildDate>
+    <pubDate>Fri, 03 Jun 2016 23:49:50 +0800</pubDate>
+    <lastBuildDate>Fri, 03 Jun 2016 23:49:50 +0800</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;h1 id=&quot;markdown&quot;&gt;怎样编辑markdown？&lt;/h1&gt;
+&lt;p&gt;## 设计标题
+标题可以分一级标题，二级标题和三级标题等，在文字前面加#号，并且在#与文字之间留下空格，这样就可以呈现在Preview窗口中。
+如果要设计二级标题就加##即两个#号，三级标题就加三个#号。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;有序号&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;就是我们平常要编辑选择题的情况。&lt;/li&gt;
+  &lt;li&gt;如果序号重复同样可以的。比如1，1，1，。&lt;/li&gt;
+  &lt;li&gt;序号，英文的句号与文字一定要有空格才行。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;加粗&lt;/h2&gt;
+&lt;p&gt;加粗文字，是在文字前面后各加与两个星号。如&lt;strong&gt;加粗&lt;/strong&gt;。&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 03 Jun 2016 23:49:50 +0800</pubDate>
+        <link>http://www.vchool.com/2016/06/03/2016-6-3-hanlin-system-001.html</link>
+        <guid isPermaLink="true">http://www.vchool.com/2016/06/03/2016-6-3-hanlin-system-001.html</guid>
+        
+        
+      </item>
     
       <item>
         <title></title>
         <description>&lt;p&gt;&lt;img src=&quot;http://www.onegreen.net/maps/Upload_maps/201412/2014121911353973.jpg&quot; alt=&quot;中国地图&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Jun 2016 15:03:15 +0800</pubDate>
+        <pubDate>Fri, 03 Jun 2016 23:49:50 +0800</pubDate>
         <link>http://www.vchool.com/2016/06/03/2016-5-21-chinamap-vchool.com011.html</link>
         <guid isPermaLink="true">http://www.vchool.com/2016/06/03/2016-5-21-chinamap-vchool.com011.html</guid>
         
@@ -26,7 +52,7 @@
         <description>&lt;p&gt;#学习中国地图
 &lt;img src=&quot;http://www.onegreen.net/maps/Upload_maps/201412/2014121911353973.jpg&quot; alt=&quot;中国地图&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Jun 2016 15:03:15 +0800</pubDate>
+        <pubDate>Fri, 03 Jun 2016 23:49:50 +0800</pubDate>
         <link>http://www.vchool.com/2016/06/03/2016-5-21-chinamap-vchool.com-011.html</link>
         <guid isPermaLink="true">http://www.vchool.com/2016/06/03/2016-5-21-chinamap-vchool.com-011.html</guid>
         
@@ -37,7 +63,7 @@
         <title></title>
         <description>&lt;p&gt;&lt;img src=&quot;http://www.onegreen.net/maps/Upload_maps/201412/2014121911353973.jpg&quot; alt=&quot;中国地图&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Jun 2016 15:03:15 +0800</pubDate>
+        <pubDate>Fri, 03 Jun 2016 23:49:50 +0800</pubDate>
         <link>http://www.vchool.com/2016/06/03/2016-5-21-chinamap-vchool-011.html</link>
         <guid isPermaLink="true">http://www.vchool.com/2016/06/03/2016-5-21-chinamap-vchool-011.html</guid>
         
@@ -213,22 +239,6 @@
         <pubDate>Tue, 24 May 2016 00:00:00 +0800</pubDate>
         <link>http://www.vchool.com/2016/05/24/Geography-001.html</link>
         <guid isPermaLink="true">http://www.vchool.com/2016/05/24/Geography-001.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>研究性阅读</title>
-        <description>&lt;p&gt;研究性阅读有点类似于研究性学习，但是研究性学习（探究式学习或疑难为本学习）是一种以学生为主的学习模式。在教师的辅助下，由学生策划、执行及自我评估的学习方法。因此针对教师来说，我们用研究性阅读更为准确的一点。教师在工作上，要阅读的不仅仅是书籍，更重要的还要感知学生的情绪变化，领会管理层的意思和相关规定。当问题需要解决，阅读就需要搜索相关资料，获取资讯，了解更多的事实。阅读要不断地进行，更重要的一面就是提高领悟能力。因此，在《如何读一本书》一书中，我清楚地记得作者对阅读的分类：提高理解能力的阅读、获取信息的阅读和娱乐性阅读。由此可见教师带着问题的阅读，就是要通过阅读获得解决问题的方法，或者有时间不断地进行专业成长的阅读，即提高理解能力的阅读。&lt;/p&gt;
-
-&lt;p&gt;不过，有时候我们思考阅读时，又觉得是阅读是终其一生的事情。为什么能终其一生？读书、就像是满足好奇心，读经典能满足获取智慧的惊奇；读新书，给生命增添新的相想空间和活力；生命要有能量来源，而能量，我们可以理解为食物中包含着能化学能，书里行间，也充满精神的力量。我们一日有三餐，那就是需要的一半的能量，而书籍提供了生命中能量的另一半。一个人携带着一本书，就像穿着一件衣服那样的平常，不可或缺。&lt;/p&gt;
-
-&lt;p&gt;研究性阅读是为解决问题而准备的，教师没有太多的时间，因此，需要目标导向，从而节约阅读时间，提高阅读效率。我们的阅读已经不是单纯的文本阅读，而是从文本出发，观看视频，浏览网页，设计实验，从而真正的掌握所要的知识的深层结构。比如我们要解决PowerPoint2016版如何设计地理微课的课件这个问题，就不能单纯地从文本来阅读，还要观看视频网站中分享的视频，不能只看优酷的视频，还要看国内外其他视频网站，从中筛选出适合用于设计地理微课课件的技术。通这这样的学习，我们了解到气温年变化曲线和逐月降水量柱状图是如可用PowerPoint2016设计出来，如何设置动态的效果。接着就是解决设计风格、文字、图形尤其是地图从彩色地图到黑白地图的变换方面的处理，都是从问题入手进行阅读，从而得到解决的。&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 23 May 2016 00:00:00 +0800</pubDate>
-        <link>http://www.vchool.com/2016/05/23/vhool-system004.html</link>
-        <guid isPermaLink="true">http://www.vchool.com/2016/05/23/vhool-system004.html</guid>
         
         
       </item>
