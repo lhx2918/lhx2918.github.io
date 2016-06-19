@@ -6,36 +6,42 @@
 </description>
     <link>http://www.vchool.com/</link>
     <atom:link href="http://www.vchool.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jun 2016 14:31:06 +0800</pubDate>
-    <lastBuildDate>Sun, 19 Jun 2016 14:31:06 +0800</lastBuildDate>
+    <pubDate>Sun, 19 Jun 2016 14:56:38 +0800</pubDate>
+    <lastBuildDate>Sun, 19 Jun 2016 14:56:38 +0800</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
         <title>地形地势与气候</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;地形地势与气候&lt;/h2&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;[阅读] 地形对气候的影响主要表在：&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;[阅读] 地形对气候的影响主要表现：&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;阳坡与阴坡&lt;/strong&gt; ：&lt;/li&gt;
-  &lt;li&gt;山脉对太阳辐射的屏障作用，使得山对阴坡与阳坡的温度、湿度状况产生很大的差异，自然景观也随之日月显不风。&lt;/li&gt;
-  &lt;li&gt;地球表面可能获得太阳辐射总量，一般是自低纬向高纬递减，但是只是就水平面而言。假设地球是一个表面相同（海拔和表面物质），太阳辐射的分布就遵守这相规律。可是，当地理有起伏而形成坡地是，不同朝向的坡可能获得的太阳辐射意总量，却不一样了。就我国的情况而言，南坡的阳光总是会比北坡强一点，而且比平地还要强一些。&lt;/li&gt;
-  &lt;li&gt;据傅抱璞研究资料显示：南坡的太阳辐射总量是100%， 那么北坡是67%，平地是83%。由此可以说明，三个区域总获取的太阳辐射总量有明显的差异。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;观察与分析&lt;/strong&gt; :&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1.阳坡与阴坡&lt;/strong&gt; ：&lt;/li&gt;
+  &lt;li&gt;山脉对太阳辐射的屏障作用，使得山地阴坡与阳坡的温度、湿度状况都产生很大的差异，自然景观也随之明显不同。&lt;/li&gt;
+  &lt;li&gt;地球表面可能获得太阳辐射总量，一般是自低纬向高纬递减，但是只是就水平面而言。假设地球是一个表面相同（海拔和表面物质），太阳辐射的分布就遵守这一规律。可是，当地球表面有起伏而形成坡地是，不同朝向的坡地获得的太阳辐射总量，却不一样。就我国的情况而言，南坡的阳光总是会比北坡强一点，而且比平地还要强一些。&lt;/li&gt;
+  &lt;li&gt;据傅抱璞研究资料显示：南坡的太阳辐射总量是100%， 那么北坡是67%，平地是83%。由此可以说明，三个区域获取的太阳辐射总量有明显的差异。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;[观察与分析]&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://o7xrum0re.bkt.clouddn.com/shunnyand%20shap.png&quot; alt=&quot;太阳光线与地形起伏变化的关系&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Type some Markdown on the left&lt;/li&gt;
-  &lt;li&gt;See HTML in the right&lt;/li&gt;
-  &lt;li&gt;Magic&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2.迎风坡与背风坡&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;山脉对低层空气运动的阻挡作用，使山脉两侧的水分、气温状况也产生差异。比如，南美洲安第斯山脉的南段“栏截”了来自太平洋的大量水汽，使西侧沿海平原的湿润景观与东侧巴塔哥尼亚高原上的荒漠景观形成了鲜明的对比。&lt;/li&gt;
+  &lt;li&gt;为什么会所不同呢？关键就是降水量在迎风坡与背风坡有所不同，迎风坡多形成地雨，而背风坡往往形成无雨的雨影区。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;[观察与分析]&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop files into Dillinger
-  - Export documents as Markdown, HTML and PDF&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://o7xrum0re.bkt.clouddn.com/ESR7DI3FKFXYNRM%7D%60XES%28K5.png&quot; alt=&quot;安第斯山脉&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;3.迎风坡与背风坡&lt;/strong&gt; 
+You can also:&lt;/li&gt;
+  &lt;li&gt;Import and save files from GitHub, Dropbox, Google Drive and One Drive&lt;/li&gt;
+  &lt;li&gt;Drag and drop files into Dillinger&lt;/li&gt;
+  &lt;li&gt;Export documents as Markdown, HTML and PDF&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As &lt;a href=&quot;http://daringfireball.net&quot;&gt;John Gruber&lt;/a&gt; writes on the &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown site&lt;/a&gt;&lt;/p&gt;
 
