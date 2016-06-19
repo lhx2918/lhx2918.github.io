@@ -6,9 +6,181 @@
 </description>
     <link>http://www.vchool.com/</link>
     <atom:link href="http://www.vchool.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jun 2016 11:43:30 +0800</pubDate>
-    <lastBuildDate>Sun, 19 Jun 2016 11:43:30 +0800</lastBuildDate>
+    <pubDate>Sun, 19 Jun 2016 14:04:57 +0800</pubDate>
+    <lastBuildDate>Sun, 19 Jun 2016 14:04:57 +0800</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>地形地势与气候</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;地形地势与气候&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;[阅读] 地形对气候的影响主要表在：&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;阳坡与阴坡&lt;/strong&gt; ：
+&amp;gt; 山脉对太阳辐射的屏障作用，使得山对阴坡与阳坡的温度、湿度状况产生很大的差异，自然景观也随之日月显不风。
+&amp;gt; 地球表面可能获得太阳辐射总量，一般是自低纬向高纬递减，但是只是就水平面而言。假设地球是一个表面相同（海拔和表面物质），太阳辐射的分布就遵守这相规律。可是，当地理有起伏而形成坡地是，不同朝向的坡可能获得的太阳辐射意总量，却不一样了。就我国的情况而言，南坡的阳光总是会比北坡强一点，而且比平地还要强一些。
+&amp;gt; 据傅抱璞研究资料显示：南坡的太阳辐射总是100%， 那么北坡是67%，平地是83%。由些说明，三个区域总获取的太阳辐射总量有明显的差异。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;观察与分析&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;![&lt;strong&gt;地形与太阳高度的变化&lt;/strong&gt;] （http://o7xrum0re.bkt.clouddn.com/%E6%AD%A3%E5%8D%88%E5%A4%AA%E9%98%B）&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Type some Markdown on the left&lt;/li&gt;
+  &lt;li&gt;See HTML in the right&lt;/li&gt;
+  &lt;li&gt;Magic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can also:
+  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
+  - Drag and drop files into Dillinger
+  - Export documents as Markdown, HTML and PDF&lt;/p&gt;
+
+&lt;p&gt;Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As &lt;a href=&quot;http://daringfireball.net&quot;&gt;John Gruber&lt;/a&gt; writes on the &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown site&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The overriding design goal for Markdown’s
+formatting syntax is to make it as readable
+as possible. The idea is that a
+Markdown-formatted document should be
+publishable as-is, as plain text, without
+looking like it’s been marked up with tags
+or formatting instructions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This text you see here is &lt;em&gt;actually&lt;/em&gt; written in Markdown! To get a feel for Markdown’s syntax, type some text into the left window and watch the results in the right.&lt;/p&gt;
+
+&lt;h3 id=&quot;version&quot;&gt;Version&lt;/h3&gt;
+&lt;p&gt;3.2.7&lt;/p&gt;
+
+&lt;h3 id=&quot;tech&quot;&gt;Tech&lt;/h3&gt;
+
+&lt;p&gt;Dillinger uses a number of open source projects to work properly:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://angularjs.org&quot;&gt;AngularJS&lt;/a&gt; - HTML enhanced for web apps!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ace.ajax.org&quot;&gt;Ace Editor&lt;/a&gt; - awesome web-based text editor&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it&quot;&gt;markdown-it&lt;/a&gt; - Markdown parser done right. Fast and easy to extend.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://twitter.github.com/bootstrap/&quot;&gt;Twitter Bootstrap&lt;/a&gt; - great UI boilerplate for modern web apps&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nodejs.org&quot;&gt;node.js&lt;/a&gt; - evented I/O for the backend&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://expressjs.com&quot;&gt;Express&lt;/a&gt; - fast node.js network app framework &lt;a href=&quot;http://twitter.com/tjholowaychuk&quot;&gt;@tjholowaychuk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gulpjs.com&quot;&gt;Gulp&lt;/a&gt; - the streaming build system&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/madrobby/keymaster&quot;&gt;keymaster.js&lt;/a&gt; - awesome keyboard handler lib by &lt;a href=&quot;http://twitter.com/thomasfuchs&quot;&gt;@thomasfuchs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jquery.com&quot;&gt;jQuery&lt;/a&gt; - duh&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And of course Dillinger itself is open source with a &lt;a href=&quot;https://github.com/joemccann/dillinger&quot;&gt;public repository&lt;/a&gt;
+ on GitHub.&lt;/p&gt;
+
+&lt;h3 id=&quot;installation&quot;&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;Dillinger requires &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; v4+ to run.&lt;/p&gt;
+
+&lt;p&gt;You need Gulp installed globally:&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;npm i -g gulp
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git clone &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;git-repo-url] dillinger
+&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;dillinger
+&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;npm i -d
+&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;NODE_ENV&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;production node app
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;plugins&quot;&gt;Plugins&lt;/h3&gt;
+
+&lt;p&gt;Dillinger is currently extended with the following plugins&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dropbox&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Google Drive&lt;/li&gt;
+  &lt;li&gt;OneDrive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Readmes, how to use them in your own application can be found here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md&quot;&gt;plugins/dropbox/README.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md&quot;&gt;plugins/github/README.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md&quot;&gt;plugins/googledrive/README.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md&quot;&gt;plugins/onedrive/README.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;development&quot;&gt;Development&lt;/h3&gt;
+
+&lt;p&gt;Want to contribute? Great!&lt;/p&gt;
+
+&lt;p&gt;Dillinger uses Gulp + Webpack for fast developing.
+Make a change in your file and instantanously see your updates!&lt;/p&gt;
+
+&lt;p&gt;Open your favorite Terminal and run these commands.&lt;/p&gt;
+
+&lt;p&gt;First Tab:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;sh
+$ node app
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Second Tab:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;sh
+$ gulp watch
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;(optional) Third:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;sh
+$ karma start
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;docker&quot;&gt;Docker&lt;/h3&gt;
+&lt;p&gt;Dillinger is very easy to install and deploy in a Docker container.&lt;/p&gt;
+
+&lt;p&gt;By default, the Docker will expose port 80, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;dillinger
+docker build -t &amp;lt;youruser&amp;gt;/dillinger:latest .
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;This will create the dillinger image and pull in the necessary dependencies. Once done, run the Docker and map the port to whatever you wish on your host. In this example, we simply map port 80 of the host to port 80 of the Docker (or whatever port was exposed in the Dockerfile):&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker run -d -p 80:80 --restart&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;always&quot;&lt;/span&gt; &amp;lt;youruser&amp;gt;/dillinger:latest
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Verify the deployment by navigating to your server address in your preferred browser.&lt;/p&gt;
+
+&lt;h3 id=&quot;nsolid-and-nginx&quot;&gt;N|Solid and NGINX&lt;/h3&gt;
+
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+
+&lt;h4 id=&quot;docker-composeyml&quot;&gt;docker-compose.yml&lt;/h4&gt;
+
+&lt;p&gt;Change the path for the nginx conf mounting path to your full path, not mine!&lt;/p&gt;
+
+&lt;h3 id=&quot;todos&quot;&gt;Todos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Write Tests&lt;/li&gt;
+  &lt;li&gt;Rethink Github Save&lt;/li&gt;
+  &lt;li&gt;Add Code Comments&lt;/li&gt;
+  &lt;li&gt;Add Night Mode&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;MIT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Free Software, Hell Yeah!&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://www.vchool.com/2016/06/19/geographylesson-01.html</link>
+        <guid isPermaLink="true">http://www.vchool.com/2016/06/19/geographylesson-01.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>苏格拉底：如何思考问题？</title>
@@ -332,62 +504,6 @@
         <pubDate>Sun, 05 Jun 2016 00:00:00 +0800</pubDate>
         <link>http://www.vchool.com/2016/06/05/hanlin-system-002.html</link>
         <guid isPermaLink="true">http://www.vchool.com/2016/06/05/hanlin-system-002.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>如何设计试卷分析表格</title>
-        <description>&lt;h1 id=&quot;section&quot;&gt;试卷分板表格&lt;/h1&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;2015-2016学年度八年级地理第二学期期中考题双向细目表&lt;/h3&gt;
-&lt;p&gt;|教学内容|试题类型|记忆|理解|运用|分析|评价|创造|分数|
-|–|:–:|:–:|:–:|–|–|–|–|–|
-|6. 中国的地理区域差异|  | |
-|秦岭——淮河线一线|单项选择题   |            |
-|          |双项选择题   |                  |
-|中国的四大地理区域|单项选择题   |          |
-|          |双项选择题   |                  |
-|四大区域范围与划分|单项选择题   |          |
-|          |双项选择题   |                  |
-|四大地理区域的差异|单项选择题   |          |
-|          |双项选择题   |                  |
-|7. 认识区域：位置与分布|              |    |
-|东北地区位置与自然环境|单项选择题   |      |
-|          |双项选择题   |                  |
-|东北地区人口与城市|单项选择题   |          |
-|          |双项选择题   |                  |
-|东北地区产业与分布|单项选择题   |          |
-|          |双项选择题   |                  |
-|9.  认识地区：联系与差异|  |          |
-|香港：国际枢纽功能  |单项项选择题   |      |
-|          |双项项选择题   |                |
-|澳门：旅游文化特色 |单项项选择题   |      |
-|          |双项项选择题   |                |
-|珠江三角洲：向外型经济 |单项项选择题   |    |
-|          |双项项选择题   |                |
-|长江三角洲：内外联系 |单项项选择题   |      |
-|          |双项项选择题   |                |
-|长株潭城市群：差异与联系 |单项项选择题 |   |
-|          |双项项选择题   |                |
-|11.  认识区域：环境与发展|  |          |
-|北京城市特征和建设成就 |单项项选择题   |      |
-|          |双项项选择题   |                |
-|台湾省的发展环境与经济发展|单项项选择题   |      |
-|          |双项项选择题   |                |
-|新疆的地理概况与区域开发|单项项选择题   |    |
-|          |双项项选择题   |                |
-|贵州省环境保护与资源利用 |单项项选择题   |      |
-|          |双项项选择题   |                |
-|黄土高原的发展与居民生活 |单项项选择题 |   |
-|          |双项项选择题   |                |
-|12. 永续发展的中国|  |          |
-| |单项项选择题 |   |
-|          |双项项选择题   |                |&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.vchool.com/2016/06/04/hanlin-system-001.html</link>
-        <guid isPermaLink="true">http://www.vchool.com/2016/06/04/hanlin-system-001.html</guid>
         
         
       </item>
