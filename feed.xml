@@ -6,8 +6,8 @@
 </description>
     <link>http://www.vchool.com/</link>
     <atom:link href="http://www.vchool.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jun 2016 14:56:38 +0800</pubDate>
-    <lastBuildDate>Sun, 19 Jun 2016 14:56:38 +0800</lastBuildDate>
+    <pubDate>Sun, 19 Jun 2016 17:37:39 +0800</pubDate>
+    <lastBuildDate>Sun, 19 Jun 2016 17:37:39 +0800</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
@@ -19,7 +19,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;1.阳坡与阴坡&lt;/strong&gt; ：&lt;/li&gt;
   &lt;li&gt;山脉对太阳辐射的屏障作用，使得山地阴坡与阳坡的温度、湿度状况都产生很大的差异，自然景观也随之明显不同。&lt;/li&gt;
-  &lt;li&gt;地球表面可能获得太阳辐射总量，一般是自低纬向高纬递减，但是只是就水平面而言。假设地球是一个表面相同（海拔和表面物质），太阳辐射的分布就遵守这一规律。可是，当地球表面有起伏而形成坡地是，不同朝向的坡地获得的太阳辐射总量，却不一样。就我国的情况而言，南坡的阳光总是会比北坡强一点，而且比平地还要强一些。&lt;/li&gt;
+  &lt;li&gt;地球表面可能获得太阳辐射总量，一般是自低纬向高纬递减，但是只是就水平面而言。假设地球是一个表面相同（海拔和表面物质），太阳辐射的分布就遵守这一规律。可是，当地球表面有起伏时，不同朝向的地表获得的太阳辐射总量，却不一样。就我国的情况而言，南坡的阳光总是会比北坡强一些，而且比平地还要强一点。&lt;/li&gt;
   &lt;li&gt;据傅抱璞研究资料显示：南坡的太阳辐射总量是100%， 那么北坡是67%，平地是83%。由此可以说明，三个区域获取的太阳辐射总量有明显的差异。&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;[观察与分析]&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -29,156 +29,28 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;2.迎风坡与背风坡&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;山脉对低层空气运动的阻挡作用，使山脉两侧的水分、气温状况也产生差异。比如，南美洲安第斯山脉的南段“栏截”了来自太平洋的大量水汽，使西侧沿海平原的湿润景观与东侧巴塔哥尼亚高原上的荒漠景观形成了鲜明的对比。&lt;/li&gt;
-  &lt;li&gt;为什么会所不同呢？关键就是降水量在迎风坡与背风坡有所不同，迎风坡多形成地雨，而背风坡往往形成无雨的雨影区。&lt;/li&gt;
+  &lt;li&gt;为什么会有所不同呢？关键就是迎风坡多形成地雨，而背风坡往往形成无雨的雨影区。这个仅仅是降水影响，但是如果从气温来看，也有不同，西侧暖流的影响，给沿海地区增加热理，因此气温要比侧要高一些。&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;[观察与分析]&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://o7xrum0re.bkt.clouddn.com/ESR7DI3FKFXYNRM%7D%60XES%28K5.png&quot; alt=&quot;安第斯山脉&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;3.迎风坡与背风坡&lt;/strong&gt; 
-You can also:&lt;/li&gt;
-  &lt;li&gt;Import and save files from GitHub, Dropbox, Google Drive and One Drive&lt;/li&gt;
-  &lt;li&gt;Drag and drop files into Dillinger&lt;/li&gt;
-  &lt;li&gt;Export documents as Markdown, HTML and PDF&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3.地势对气候的影响&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;地势对气候的影响，主要表现在为气温随着地势的增高而降低。一般情况下，海拔每增高100米，气温约下降 0.6 摄氏度。这就导致某些高山“一山有四季”、山顶有积雪终年不化的现象的主要原因。&lt;/li&gt;
+  &lt;li&gt;为什么离开地面越高，气温就越低呢？这个也不是绝对的，假如你上升到1000千米的高空就不是这样。人类主要生活在大气层的底部，这个层次的大气我们称之为对流层，对于对流层大气来说，其主要热量来源就是地面的热量，距离地面越近，获得热量越多，气温就超高，而离开地面越远，获得地表的热量越少，气温就会变低。因些就会出现气温随海拔的上升呈下降的现象。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;[观察与分析]&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As &lt;a href=&quot;http://daringfireball.net&quot;&gt;John Gruber&lt;/a&gt; writes on the &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://o7xrum0re.bkt.clouddn.com/%E6%B0%94%E5%80%99%E5%AF%B9%E7%85%A7.jpg?imageView2/2/w/308/h/210/interlace/1/q/100&quot; alt=&quot;安第斯山脉北段气候变化示意图&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;The overriding design goal for Markdown’s
-formatting syntax is to make it as readable
-as possible. The idea is that a
-Markdown-formatted document should be
-publishable as-is, as plain text, without
-looking like it’s been marked up with tags
-or formatting instructions.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;[听课] 地形地势对气候的影响（微课）&lt;/h3&gt;
 
-&lt;p&gt;This text you see here is &lt;em&gt;actually&lt;/em&gt; written in Markdown! To get a feel for Markdown’s syntax, type some text into the left window and watch the results in the right.&lt;/p&gt;
+&lt;iframe height=&quot;498&quot; width=&quot;510&quot; src=&quot;http://player.youku.com/embed/XMTYxMzYyOTAzMg==&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&quot;version&quot;&gt;Version&lt;/h3&gt;
-&lt;p&gt;3.2.7&lt;/p&gt;
+&lt;iframe height=&quot;498&quot; width=&quot;510&quot; src=&quot;http://player.youku.com/embed/XMTYxMzYzMTk4OA==&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&quot;tech&quot;&gt;Tech&lt;/h3&gt;
-
-&lt;p&gt;Dillinger uses a number of open source projects to work properly:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://angularjs.org&quot;&gt;AngularJS&lt;/a&gt; - HTML enhanced for web apps!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ace.ajax.org&quot;&gt;Ace Editor&lt;/a&gt; - awesome web-based text editor&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it&quot;&gt;markdown-it&lt;/a&gt; - Markdown parser done right. Fast and easy to extend.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://twitter.github.com/bootstrap/&quot;&gt;Twitter Bootstrap&lt;/a&gt; - great UI boilerplate for modern web apps&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://nodejs.org&quot;&gt;node.js&lt;/a&gt; - evented I/O for the backend&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://expressjs.com&quot;&gt;Express&lt;/a&gt; - fast node.js network app framework &lt;a href=&quot;http://twitter.com/tjholowaychuk&quot;&gt;@tjholowaychuk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://gulpjs.com&quot;&gt;Gulp&lt;/a&gt; - the streaming build system&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/madrobby/keymaster&quot;&gt;keymaster.js&lt;/a&gt; - awesome keyboard handler lib by &lt;a href=&quot;http://twitter.com/thomasfuchs&quot;&gt;@thomasfuchs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jquery.com&quot;&gt;jQuery&lt;/a&gt; - duh&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And of course Dillinger itself is open source with a &lt;a href=&quot;https://github.com/joemccann/dillinger&quot;&gt;public repository&lt;/a&gt;
- on GitHub.&lt;/p&gt;
-
-&lt;h3 id=&quot;installation&quot;&gt;Installation&lt;/h3&gt;
-
-&lt;p&gt;Dillinger requires &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; v4+ to run.&lt;/p&gt;
-
-&lt;p&gt;You need Gulp installed globally:&lt;/p&gt;
-
-&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;npm i -g gulp
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git clone &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;git-repo-url] dillinger
-&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;dillinger
-&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;npm i -d
-&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;NODE_ENV&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;production node app
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;plugins&quot;&gt;Plugins&lt;/h3&gt;
-
-&lt;p&gt;Dillinger is currently extended with the following plugins&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dropbox&lt;/li&gt;
-  &lt;li&gt;Github&lt;/li&gt;
-  &lt;li&gt;Google Drive&lt;/li&gt;
-  &lt;li&gt;OneDrive&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Readmes, how to use them in your own application can be found here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md&quot;&gt;plugins/dropbox/README.md&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md&quot;&gt;plugins/github/README.md&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md&quot;&gt;plugins/googledrive/README.md&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md&quot;&gt;plugins/onedrive/README.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;development&quot;&gt;Development&lt;/h3&gt;
-
-&lt;p&gt;Want to contribute? Great!&lt;/p&gt;
-
-&lt;p&gt;Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantanously see your updates!&lt;/p&gt;
-
-&lt;p&gt;Open your favorite Terminal and run these commands.&lt;/p&gt;
-
-&lt;p&gt;First Tab:
-&lt;code class=&quot;highlighter-rouge&quot;&gt;sh
-$ node app
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Second Tab:
-&lt;code class=&quot;highlighter-rouge&quot;&gt;sh
-$ gulp watch
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;(optional) Third:
-&lt;code class=&quot;highlighter-rouge&quot;&gt;sh
-$ karma start
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;docker&quot;&gt;Docker&lt;/h3&gt;
-&lt;p&gt;Dillinger is very easy to install and deploy in a Docker container.&lt;/p&gt;
-
-&lt;p&gt;By default, the Docker will expose port 80, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.&lt;/p&gt;
-
-&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;dillinger
-docker build -t &amp;lt;youruser&amp;gt;/dillinger:latest .
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;This will create the dillinger image and pull in the necessary dependencies. Once done, run the Docker and map the port to whatever you wish on your host. In this example, we simply map port 80 of the host to port 80 of the Docker (or whatever port was exposed in the Dockerfile):&lt;/p&gt;
-
-&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker run -d -p 80:80 --restart&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;always&quot;&lt;/span&gt; &amp;lt;youruser&amp;gt;/dillinger:latest
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Verify the deployment by navigating to your server address in your preferred browser.&lt;/p&gt;
-
-&lt;h3 id=&quot;nsolid-and-nginx&quot;&gt;N|Solid and NGINX&lt;/h3&gt;
-
-&lt;p&gt;More details coming soon.&lt;/p&gt;
-
-&lt;h4 id=&quot;docker-composeyml&quot;&gt;docker-compose.yml&lt;/h4&gt;
-
-&lt;p&gt;Change the path for the nginx conf mounting path to your full path, not mine!&lt;/p&gt;
-
-&lt;h3 id=&quot;todos&quot;&gt;Todos&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Write Tests&lt;/li&gt;
-  &lt;li&gt;Rethink Github Save&lt;/li&gt;
-  &lt;li&gt;Add Code Comments&lt;/li&gt;
-  &lt;li&gt;Add Night Mode&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;MIT&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Free Software, Hell Yeah!&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;[练习] 思考与评价&lt;/h3&gt;
 
 </description>
         <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
